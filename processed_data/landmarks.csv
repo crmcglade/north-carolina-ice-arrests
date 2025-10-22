@@ -1,191 +1,227 @@
 ,Apprehension Site Landmark
 0,henderson county jail
-1,wake county jail
-2,"rdu general area, non-specific"
-3,nc department of corrections
-4,gaston county jail 287g
-5,new hanover county jail
-6,"hen general area, henderson 287g"
-7,"mecklenburg county, nc"
-8,ero charlotte
-10,stanley co probation 201 s 2nd st courthouse
-11,pitt county fugitive operations
-13,union county jail
-14,"yadkin county, nc"
-16,wilson county jail
-19,wake county fugitive operations
-23,"gaston county, nc"
-24,carteret county jail
-28,johnston county jail
-34,watauga county jail
-35,pender county jail
-36,granville county jail
-38,"avery county, nc"
-41,rowan county jail
-43,"gcn general area, gaston 287g"
-48,lenoir county jail
-50,butner bop facility
-52,"iredell county, nc"
-57,johnston county fugitive operations
-62,"person county, nc"
-64,"ccn general area, cabarrus 287g"
-67,surry county jail
-71,cleveland county jail
-73,"winston-salem, nc"
-75,"cabarrus county, nc"
-76,sampson county jail
-77,"wil general area, non-specific"
-80,iredell county jail
-91,dare county jail
-92,wilson county fugitive operations
-98,sampson county fugitive operations
-115,columbus county jail
-117,"randolph county, nc"
-119,brunswick county jail
-121,"sparta, nc"
-130,wilkes county jail
-158,pender doc
-159,"hen general area, non-specific"
-160,"edgecombe co probation rocky mount, nc"
-161,cabarrus co probation concord
-164,ashe county jail
-165,randolph county jail
-169,cumberland county jail
-183,"chatham county, nc"
-192,durham county fugitive operations
-195,dare county fugitive operations
-196,macon county jail
-197,davidson county jail
-208,"rockingham, nc"
-212,harnett county jail
-227,catawba county jail
-228,moore county jail
-233,harnett county fugitive operations
-235,onslow county jail
-239,pitt county jail
-248,"union county, nc"
-249,"grn general area, non-specific"
-256,"richmond county, nc"
-262,vance county jail
-269,"henderson county, nc"
-274,"rowan county, nc"
-277,durham county jail
-284,nash county jail
-290,currituck county jail
-304,"rockingham county, nc"
-308,mcdowell county jail
-312,"forsyth county, nc"
-325,davie county jail
-330,wayne county jail
-333,wayne county probtation goldsboro nc
-339,wake co probation 316 fayetteville st raleigh
-377,hoke county jail
-385,"orange county, nc"
-387,cumberland county fugitive operations
-409,hertford county jail
-424,granville fugitive operations
-430,butner medical facility
-431,alamance county jail
-434,"greensboro, nc"
-436,"onslow county, nc"
-458,forsyth county jail
-482,guilford county jail greensboro
-484,alexander county jail
-489,"caldwell county, nc"
-498,"montgomery county, nc"
-500,halifax county jail
-501,albemarle district jail
-507,cabarrus county jail
-509,greene county jail
-512,lincoln county jail
-517,buncombe county jail
-522,franklin county fugitive operations
-525,"high point, nc"
-534,"surry county, nc"
-552,mecklenburg co probation exec ctr drive
-571,clay county jail
-591,caswell county jail
-596,"catawba county, nc"
-614,wayne county fugitive operations
-617,nc dept of corrections facility
-621,rockingham county jail
-625,swain county jail
-634,north-hampton county jail
-637,"graham, nc"
-686,"moore county, nc"
-698,columbus doc
-724,"cleveland county, nc"
-728,transylvania county jail
-731,scotland county jail
-737,"stokes county, nc"
-744,haywood county jail
-779,rutherford county jail
-781,"columbus county probation 110 w. smith st. whiteville, nc"
-803,jackson county jail
-815,"hoke county, nc"
-830,"wilkes county, nc"
-832,"burlington, nc"
-836,"alamance county, nc"
-837,duplin county fugitive operations
-855,"mcdowell county, nc"
-865,cabarrus county jail 287g
-882,johnston co probation berkshire rd smithfield
-886,"wake co probation garner, nc"
-898,"asheboro, nc"
-901,beaufort county jail
-919,"anson county, nc"
-951,field arrest
-1005,mecklenburg county jail
-1054,tyrrell county fugitive operations
-1074,new hanover county fugitive operations
-1076,yadkin county jail
-1113,henderson county jail 287g
-1117,edgecomb county fugitive operations
-1130,"wilkes county jail, nc"
-1152,caldwell county jail
-1153,lee county jail
-1158,burke county jail
-1188,"davidson county, nc"
-1196,"wilson co probation wilson, nc"
-1250,"lenoir, nc"
-1266,"union co probation monroe, nc"
-1293,vance county fugitive operations
-1312,tabor doc
-1346,robeson county fugitive operations
-1402,"davie county, nc"
-1436,"grr general area, non-specific"
-1459,nash county fugitive operations
-1503,yancey county jail
-1548,"lincoln county, nc"
-1555,guilford county jail high point
-1590,sc. nc line from mecklenburg co e to richmond co; n to nc/va line
-1599,"johnston co probation clayton, nc"
-1601,lenoir county fugitive operations
-1618,"new hanover county, nc"
-1621,franklin county jail
-1626,"brunswick county probataion govt. center dr. bolivia, nc"
-1657,"cherokee county, nc"
-1675,us marshalls
-1682,pamlico county jail
-1717,orange county jail
-1743,craven county jail
-1752,polk county jail
-1790,"columbus county, nc"
-1806,"lee county, nc"
-1809,"jackson county, nc"
-1838,montgomery county jail
-1945,columbus county fugitive operations
-1991,charlotte general area
-1992,henderson co probation hendersonville
-2114,"mount airy, nc"
-2146,richmond county jail
-2281,"alexander county, nc"
-2323,person county jail
-2334,washington county fugitive operations
-2335,stanley county jail
-2404,catawba co probation 26th st hickory
-2464,chowan county jail
-2487,mecklenburg co probation e 4th st clt
-2493,
-2528,pender county fugitive operations
-2568,robeson county jail
+1,nc department of corrections
+2,wake county jail
+3,carteret county jail
+4,"mecklenburg county, nc"
+6,"rdu general area, non-specific"
+7,"chatham county, nc"
+8,iredell county jail
+11,new hanover county jail
+13,gaston county jail 287g
+15,"hen general area, henderson 287g"
+17,ero charlotte
+20,stanley co probation 201 s 2nd st courthouse
+22,pitt county fugitive operations
+25,"wil general area, non-specific"
+26,union county jail
+27,"union co probation monroe, nc"
+28,"yadkin county, nc"
+31,wilson county jail
+35,wake county fugitive operations
+42,"gaston county, nc"
+46,"union county, nc"
+48,brunswick county jail
+51,johnston county jail
+55,alamance county jail
+63,watauga county jail
+64,pender county jail
+65,granville county jail
+69,"avery county, nc"
+76,rowan county jail
+78,"gcn general area, gaston 287g"
+84,sampson county jail
+87,lenoir county jail
+89,butner bop facility
+91,"iredell county, nc"
+100,johnston county fugitive operations
+106,"person county, nc"
+109,"ccn general area, cabarrus 287g"
+113,duplin county fugitive operations
+114,surry county jail
+118,cleveland county jail
+120,"winston-salem, nc"
+122,"cabarrus county, nc"
+134,durham county fugitive operations
+137,butner medical facility
+150,dare county jail
+151,wilson county fugitive operations
+157,"spartanburg, sc"
+163,sampson county fugitive operations
+180,gaston co probation w franklin blvd gastonia
+181,"onslow county, nc"
+195,columbus county jail
+197,"macon county, nc"
+198,"randolph county, nc"
+204,"sparta, nc"
+216,forsyth county jail
+218,"pender county, nc"
+222,wilkes county jail
+237,yadkin county jail
+243,franklin county jail
+246,transylvania county jail
+267,pender doc
+268,wayne county jail
+272,"hen general area, non-specific"
+273,"edgecombe co probation rocky mount, nc"
+275,cabarrus co probation concord
+277,buncombe county jail
+280,ashe county jail
+283,randolph county jail
+288,cumberland county jail
+291,pitt county jail
+292,haywood county jail
+303,onslow county jail
+323,halifax county jail
+327,"lexington, nc"
+332,"asheville, nc"
+342,caldwell county jail
+344,dare county fugitive operations
+345,"davie county, nc"
+346,macon county jail
+347,davidson county jail
+356,moore county jail
+370,"rockingham, nc"
+374,hoke county jail
+378,harnett county jail
+406,catawba county jail
+412,new hanover county fugitive operations
+413,"high point, nc"
+414,vance county jail
+420,harnett county fugitive operations
+430,"greenville, sc"
+434,"forsyth county, nc"
+445,"grn general area, non-specific"
+456,"richmond county, nc"
+481,"henderson county, nc"
+487,"rowan county, nc"
+493,durham county jail
+510,nash county jail
+519,currituck county jail
+523,"alamance county, nc"
+540,"rockingham county, nc"
+546,mcdowell county jail
+566,columbus doc
+570,davie county jail
+579,tabor doc
+588,wayne county probtation goldsboro nc
+596,wake co probation 316 fayetteville st raleigh
+604,lincoln county jail
+606,alexander county jail
+615,lee county fugitive operations
+633,"jackson county, nc"
+642,"davidson county, nc"
+665,"ashe county, nc"
+669,"orange county, nc"
+671,cumberland county fugitive operations
+676,orange county jail
+687,"madison county, nc"
+707,hertford county jail
+728,granville fugitive operations
+744,"greensboro, nc"
+747,mecklenburg co probation e 4th st clt
+821,guilford county jail greensboro
+827,"hoke county, nc"
+835,"caldwell county, nc"
+849,"montgomery county, nc"
+852,albemarle district jail
+853,avery county jail
+865,cabarrus county jail
+870,greene county jail
+888,franklin county fugitive operations
+889,us marshalls
+898,mecklenburg county jail
+902,caswell county jail
+907,"surry county, nc"
+936,mecklenburg co probation exec ctr drive
+970,clay county jail
+1011,"catawba county, nc"
+1037,wayne county fugitive operations
+1041,nc dept of corrections facility
+1049,rockingham county jail
+1057,swain county jail
+1074,north-hampton county jail
+1077,"graham, nc"
+1082,"anson county, nc"
+1111,craven county jail
+1146,"moore county, nc"
+1152,jackson county jail
+1202,pender county fugitive operations
+1216,"cleveland county, nc"
+1235,scotland county jail
+1245,"stokes county, nc"
+1313,rutherford county jail
+1317,"columbus county probation 110 w. smith st. whiteville, nc"
+1396,"wilkes county, nc"
+1399,"burlington, nc"
+1435,vance county fugitive operations
+1437,"mcdowell county, nc"
+1454,cabarrus county jail 287g
+1465,person county jail
+1477,johnston co probation berkshire rd smithfield
+1479,beaufort county jail
+1483,"wake co probation garner, nc"
+1491,bladen county jail
+1499,"asheboro, nc"
+1528,"stanley county, nc"
+1572,"morganton, nc"
+1612,field arrest
+1623,warren county jail
+1684,person county fugitive operations
+1690,edgecomb county jail
+1696,pasquotank county jail
+1762,yancey county jail
+1764,tyrrell county fugitive operations
+1789,chowan county jail
+1803,nash county fugitive operations
+1847,johnston county sheriff
+1852,washington county fugitive operations
+1870,henderson county jail 287g
+1880,edgecomb county fugitive operations
+1900,"wilkes county jail, nc"
+1938,lee county jail
+1951,burke county jail
+1999,alleghany county jail
+2029,"wilson co probation wilson, nc"
+2125,"lenoir, nc"
+2286,robeson county fugitive operations
+2437,"grr general area, non-specific"
+2473,duplin county jail
+2588,davidson co probation alma owens dr lexington
+2637,"lincoln county, nc"
+2653,guilford county jail high point
+2716,sc. nc line from mecklenburg co e to richmond co; n to nc/va line
+2728,"johnston co probation clayton, nc"
+2730,lenoir county fugitive operations
+2736,lincoln co probation lincolnton
+2760,"new hanover county, nc"
+2773,"brunswick county probataion govt. center dr. bolivia, nc"
+2822,"cherokee county, nc"
+2857,pamlico county jail
+2977,polk county jail
+2988,"guilford county, nc"
+3037,"columbus county, nc"
+3038,"alexander county, nc"
+3056,"buncombe county, nc"
+3066,"lee county, nc"
+3120,montgomery county jail
+3131,cherokee county jail
+3311,columbus county fugitive operations
+3397,charlotte general area
+3398,henderson co probation hendersonville
+3488,"yadkinville, nc"
+3571,robeson county jail
+3605,catawba co probation 26th st hickory
+3617,"caswell county, nc"
+3632,"mount airy, nc"
+3639,pamlico county fugitive operations
+3671,"mitchell county, nc"
+3672,hyde county fugitive operations
+3685,richmond county jail
+3710,brunswick county
+3973,vance co probation henderson
+4002,stanley county jail
+4242,bertie county jail
+4291,"thomasville, nc"
+4299,
+4382,"watauga county, nc"
