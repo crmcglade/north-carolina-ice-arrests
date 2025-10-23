@@ -1,0 +1,16 @@
+,criminality,chart-cat,count
+0,1 Convicted Criminal,active,279
+1,1 Convicted Criminal,deported,560
+2,1 Convicted Criminal,other,4
+3,1 Convicted Criminal,unknown,6
+4,1 Convicted Criminal,voluntary,20
+5,2 Pending Criminal Charges,active,258
+6,2 Pending Criminal Charges,deported,331
+7,2 Pending Criminal Charges,other,7
+8,2 Pending Criminal Charges,unknown,7
+9,2 Pending Criminal Charges,voluntary,45
+10,3 Other Immigration Violator,active,183
+11,3 Other Immigration Violator,deported,187
+12,3 Other Immigration Violator,other,10
+13,3 Other Immigration Violator,unknown,18
+14,3 Other Immigration Violator,voluntary,26
